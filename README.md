@@ -5,6 +5,7 @@ Markdown Cheatsheet<a name="TOP"></a>
 - - - -
 ## Adding Information ##
 * Puri Sangnawakit 682115036
+* Chainarin Aintha 682115014
 # Heading 1 #
 
 
